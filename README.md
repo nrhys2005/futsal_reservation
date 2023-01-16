@@ -1,9 +1,9 @@
 # futsal_reservation
 풋살 구장예약
 
-# 추가 구성요소
-
----
+# 동작 방법
+ 1. vi config
+ 2. 아래의 구장정보 및 사용자 정보 
 
 ## config
 ### 구장정보
