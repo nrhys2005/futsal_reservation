@@ -7,7 +7,7 @@
 
 ## config
 ### 구장정보
-- soeul_url = ''
+- reservation_url = ''
 - futsal_place1 = ''
 - futsal_place2 = ''
 - futsal_place3 = ''
